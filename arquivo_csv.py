@@ -20,4 +20,4 @@ class ArquivoCSV(object):
             coluna.append(conteudo_linha[indice_coluna])
         coluna.pop(0)
         return coluna 
-    #Arquivo criado para Estudo de criação de módulos!  
+  
